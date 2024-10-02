@@ -1,2 +1,2 @@
 # xKuCoinBot
-Python bot for farming xKuCoin telegram bot.
+IN DEVELOPMENT.
